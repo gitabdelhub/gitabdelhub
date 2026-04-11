@@ -43,21 +43,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🎬 [Streamify — Data Warehouse](https://github.com/gitabdelhub/streamify-data-warehouse)
-End-to-end Data Warehouse for a fictional streaming platform using Medallion Architecture. Star Schema with 5 dimensions, Power BI dashboard tracking MRR, churn and watch time. Includes a recommendation system and churn prediction model.
-`SQL Server` `Python` `Power BI` `Scikit-Learn`
-
-### ♟️ MLOps Chess Elo
-Automated ML pipeline to predict Chess Elo ratings using XGBoost. Deployed via FastAPI, containerized with Docker, orchestrated on Kubernetes with full CI/CD on GitHub Actions.
-`Python` `XGBoost` `FastAPI` `Docker` `Kubernetes` `CI/CD`
-
-> 🚧 More projects coming soon — real-time pipelines, RAG systems, and cloud data engineering.
-> Check my [portfolio](YOUR_VERCEL_URL) for the full picture.
-
----
-
 ## 💼 Experience
 
 **Data Scientist Intern · 3D Smart Factory · Aug 2025**
