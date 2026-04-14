@@ -1,16 +1,16 @@
 # Hi, I'm Abdallah ASSOUMANOU 👋
 
-> 2nd-year Engineering Student at ENSIAS · Data Engineering & AI · Looking for a PFA Internship
+> Engineering Student at ENSIAS · Data Engineering & AI 
 
 ---
 
 ## 🙋 About Me
 
-- 🎓 2nd-year engineering student at **ENSIAS**, Rabat, Morocco — specializing in Data Engineering and AI
+- 🎓 Engineering student at **ENSIAS**, Rabat, Morocco specializing in Data Engineering and AI
 - 🔭 Currently building data pipelines and AI systems
 - 🌍 Looking for a **PFA internship** this summer in Data Engineering or AI
-- 💬 French 🇫🇷 | Arabic 🇲🇦 | English 🇬🇧
-- 📫 [LinkedIn](https://www.linkedin.com/in/abdallah-assoumanou-354b43286/) | 🌐 [Portfolio](YOUR_VERCEL_URL)
+- 💬 French  |English
+- 📫 [LinkedIn](https://www.linkedin.com/in/abdallah-assoumanou-354b43286/) | 🌐 [Portfolio](https://abdallah-assoumanou.vercel.app/)
 
 ---
 
@@ -20,8 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -34,7 +32,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Visualization & Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
