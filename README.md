@@ -56,7 +56,7 @@ The main objective was to build an automated visual inspection system for indust
 
 ## 🏅 Certifications
 
-**AWS Academy Cloud Foundations · Amazon Web Services**
+**AWS Certified Cloud Practitioner, Amazon Web Services** 
 Skills: Cloud Computing, Cloud Security, AWS Core Services, Cloud Applications
 
 **Data Engineer Associate · DataCamp**
